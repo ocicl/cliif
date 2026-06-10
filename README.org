@@ -1,0 +1,9 @@
+* cliif
+
+CLIIF (Common Lisp Information Interchange Format) is a data-only, schema-free interchange format for Common Lisp, similar to JSON but with more features and a single canonical form.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/Xs-and-10s/cliif-common-lisp.git   |
+| commit  | 0000000                                                    |
+| systems | cliif                                                     |
+|---------+------------------------------------------------------------|
