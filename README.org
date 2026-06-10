@@ -4,6 +4,6 @@ CLIIF (Common Lisp Information Interchange Format) is a data-only, schema-free i
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/Xs-and-10s/cliif-common-lisp.git   |
-| commit  | 0000000                                                    |
+| commit  | 33fbbb1                                                    |
 | systems | cliif                                                     |
 |---------+------------------------------------------------------------|
